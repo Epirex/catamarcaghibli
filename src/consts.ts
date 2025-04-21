@@ -1,6 +1,7 @@
 export const ROUTES = [
-  { label: "Art", href: "/art" },
-  { label: "About", href: "/about" },
+  // Elimina o comenta estas líneas si existen:
+  // { label: "Art", href: "/art" },
+  // { label: "About", href: "/about" },
 ] as const;
 
 // Icons from https://icon-sets.iconify.design
