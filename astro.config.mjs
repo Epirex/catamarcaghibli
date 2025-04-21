@@ -5,7 +5,8 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://estebanguzzo.com.ar',
+    site: 'https://estebanguzzo.com.ar',
+  base: '/catamarcaghibli/',
   output: 'static',
   integrations: [astroImageTools, Tailwind(), icon()],
 });
