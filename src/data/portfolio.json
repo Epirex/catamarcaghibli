@@ -4,91 +4,91 @@
       "id": 1,
       "titulo": "YPF",
       "descripcion": "Estación de servicio YPF",
-      "imagen": "/ypf.png",
+      "imagen": "./ypf.png",
       "categoria": "infraestructura"
     },
     {
       "id": 2,
       "titulo": "Universidad",
       "descripcion": "Edificio de la Universidad",
-      "imagen": "/universidad.png",
+      "imagen": "./universidad.png",
       "categoria": "educación"
     },
     {
       "id": 3,
       "titulo": "Peatonal",
       "descripcion": "Centro comercial peatonal",
-      "imagen": "/peatonal.png",
+      "imagen": "./peatonal.png",
       "categoria": "urbanismo"
     },
     {
       "id": 4,
       "titulo": "Legislatura",
       "descripcion": "Edificio de la Legislatura",
-      "imagen": "/legislatura.png",
+      "imagen": "./legislatura.png",
       "categoria": "arquitectura"
     },
     {
       "id": 5,
       "titulo": "Jumeal 3",
       "descripcion": "Vista panorámica del Jumeal",
-      "imagen": "/jumeal3.png",
+      "imagen": "./jumeal3.png",
       "categoria": "paisaje"
     },
     {
       "id": 6,
       "titulo": "Jumeal 2",
       "descripcion": "Camino del Jumeal",
-      "imagen": "/jumeal2.png",
+      "imagen": "./jumeal2.png",
       "categoria": "paisaje"
     },
     {
       "id": 7,
       "titulo": "Jumeal 1",
       "descripcion": "Lago del Dique El Jumeal",
-      "imagen": "/jumeal1.png",
+      "imagen": "./jumeal1.png",
       "categoria": "fotografía"
     },
     {
       "id": 8,
       "titulo": "Alameda 3",
       "descripcion": "Detalle arquitectónico de la Alameda",
-      "imagen": "/alameda3.png",
+      "imagen": "./alameda3.png",
       "categoria": "fotografía"
     },
     {
       "id": 9,
       "titulo": "Alameda 2",
       "descripcion": "Perspectiva de la Alameda",
-      "imagen": "/alameda2.png",
+      "imagen": "./alameda2.png",
       "categoria": "ilustración"
     },
     {
       "id": 10,
       "titulo": "Alameda 1",
       "descripcion": "Vista de la Alameda",
-      "imagen": "/alameda1.png",
+      "imagen": "./alameda1.png",
       "categoria": "diseño"
     },
     {
       "id": 11,
       "titulo": "Cine Teatro",
       "descripcion": "Ilustración del Cine Teatro",
-      "imagen": "/cineteatro.png",
+      "imagen": "./cineteatro.png",
       "categoria": "diseño"
     },
     {
       "id": 12,
       "titulo": "Plaza 25",
       "descripcion": "Plaza 25 de Mayo",
-      "imagen": "/plaza25.png",
+      "imagen": "./plaza25.png",
       "categoria": "espacio público"
     },
     {
       "id": 13,
       "titulo": "Catedral",
       "descripcion": "Fachada de la Catedral",
-      "imagen": "/catedral.png",
+      "imagen": "./catedral.png",
       "categoria": "dibujo"
     }
   ]
